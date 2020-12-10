@@ -1,0 +1,8 @@
+## Ignore sqlite db
+switrs.sqlite
+
+## Debug logs
+debug.log
+
+## ipynb checkpoints
+/.ipynb_checkpoints
